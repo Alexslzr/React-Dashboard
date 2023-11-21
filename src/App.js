@@ -21,7 +21,6 @@ import Bar  from "./pages/Charts/Bar";
 import Pie  from "./pages/Charts/Pie";
 import Financial  from "./pages/Charts/Financial";
 import Pyramid  from "./pages/Charts/Pyramid";
-import ColorMapping  from "./pages/Charts/ColorMapping";
 import Area  from "./pages/Charts/Area";
 
 import { useStateContext } from "./contexts/ContextProvider";
@@ -82,7 +81,6 @@ export default function App(){
                             <Route path="/bar" element={<Bar/>}/>
                             <Route path="/pie" element={<Pie />}/>
                             <Route path="/financial" element={<Financial />}/>
-                            <Route path="/color-mapping" element={<ColorMapping/>} />
                             <Route path="/pyramid" element={<Pyramid/>}/>
                             <Route path="/stacked" element={<Stacked />}/>
                         </Routes>
