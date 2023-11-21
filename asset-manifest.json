@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Dashboard/static/css/main.44e6558a.css",
-    "main.js": "/React-Dashboard/static/js/main.c95c934f.js",
+    "main.js": "/React-Dashboard/static/js/main.0c2f88d4.js",
     "static/media/product4.jpg": "/React-Dashboard/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/React-Dashboard/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/React-Dashboard/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -15,10 +15,10 @@
     "static/media/product5.jpg": "/React-Dashboard/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/React-Dashboard/index.html",
     "main.44e6558a.css.map": "/React-Dashboard/static/css/main.44e6558a.css.map",
-    "main.c95c934f.js.map": "/React-Dashboard/static/js/main.c95c934f.js.map"
+    "main.0c2f88d4.js.map": "/React-Dashboard/static/js/main.0c2f88d4.js.map"
   },
   "entrypoints": [
     "static/css/main.44e6558a.css",
-    "static/js/main.c95c934f.js"
+    "static/js/main.0c2f88d4.js"
   ]
 }
