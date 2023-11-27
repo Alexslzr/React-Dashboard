@@ -5,7 +5,7 @@ import { BsChatLeft } from 'react-icons/bs'
 import { RiNotification3Line } from 'react-icons/ri'
 import { MdKeyboardArrowDown } from 'react-icons/md'
 import { TooltipComponent } from '@syncfusion/ej2-react-popups'
-import avatar from '../data/avatar.jpg'
+import avatar from '../data/Alex.jpg'
 import {useStateContext} from '../contexts/ContextProvider'
 import Cart from './Cart'
 import Chat from './Chat'
@@ -74,7 +74,7 @@ const Navbar = () => {
           <p>
             <span className='text-gray-400 text-14'>Hi, </span>
             <span>{' '}</span>
-            <span className='text-gray-400 font-bold ml-1 text-14S'>Michael</span>
+            <span className='text-gray-400 font-bold ml-1 text-14S'>Alex</span>
           </p>
           <MdKeyboardArrowDown className='text-gray-400 text-14'/>
 
